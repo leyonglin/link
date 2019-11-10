@@ -3,6 +3,7 @@ window镜像：https://msdn.itellyou.cn/
 谷歌切换手机版：搜索window10
 
 vnc views下载地址 : https://www.techspot.com/downloads/5760-vnc-viewer.html
+vpn 客户端与服务端：https://github.com/shadowsocks/shadowsocks-windows
 
 千峰教育：https://www.funtl.com/
           http://www.qfdmy.com/
