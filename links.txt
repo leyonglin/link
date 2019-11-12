@@ -16,7 +16,12 @@ http://openresty.org
 https://www.hi-linux.com/
 https://raye.wang/
 https://www.cnblogs.com/zengkefu/p/5616676.html
-百度文档
+百度文档(二级域名后面添加vvv，有可能免费下载，跳转后能查看其它使用技巧)
+
+openstack官方帮助文档：https://docs.openstack.org/
+kubernetes:
+	官网：https://kubernetes.io/[zh]/
+	中文社区：https://www.kubernetes.org.cn/
 
 python：
 https://github.com/satwikkansal/wtfpython   /   https://github.com/leisurelicht/wtfpython-cn
