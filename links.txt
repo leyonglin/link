@@ -30,7 +30,8 @@ IPTABLES: https://wsgzao.github.io/post/iptables/
 
 REDIS: https://github.com/wsgzao/redis
 
-RPM包查找：http://www.rpmfind.net/linux/rpm2html/search.php  /  https://pkgs.org/download/mailx
+RPM包查找：http://www.rpmfind.net/linux/rpm2html/search.php  /  https://pkgs.org/download/mailx / http://ftp.scientificlinux.org/linux/scientific/  
+		   https://people.centos.org/tru  /  http://elrepo.org/linux/kernel
 
 
 
