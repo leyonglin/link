@@ -20,7 +20,7 @@ GITLAB: https://gitlab.com/gitlab-org/ [ gitlab-foss/blob/master/doc/ [ install/
 
 ZABBIX：https://www.zabbix.com/ [documentation/4.0/zh/manual/definitions] （官网）  /  http://www.zabbix.org.cn/ （中文社区）
 
-NGINX：https://nginx.org/
+NGINX：https://nginx.org/  /  https://www.xuliangwei.com/ (nginx优化)  
 
 JUMPSERVER: http://jumpserver.org/
 
@@ -33,7 +33,7 @@ REDIS: https://github.com/wsgzao/redis
 RPM包查找：http://www.rpmfind.net/linux/rpm2html/search.php  /  https://pkgs.org/download/mailx / http://ftp.scientificlinux.org/linux/scientific/  
 		   https://people.centos.org/tru  /  http://elrepo.org/linux/kernel
 
-
+源码：pcre tar sourceforge（https://sourceforge.net/）
 
 
 IT文档：
