@@ -35,6 +35,7 @@ RPM包查找：http://www.rpmfind.net/linux/rpm2html/search.php  /  https://pkgs
 
 源码：pcre tar sourceforge（https://sourceforge.net/）
 
+http://www.zsythink.net/archives/2450			# ssh隧道/zabbix/puppet/iptables/ansible/nginx/git/lvs/http/
 
 IT文档：
 https://www.linuxprobe.com/          			# lnmp，ldap
@@ -42,7 +43,6 @@ https://www.linuxprobe.com/          			# lnmp，ldap
 
 需要继续跟踪的：
 https://wsgzao.github.io/						# bash常用命令
-http://www.zsythink.net/archives/2450			# ssh隧道
 https://wangchujiang.com/
 https://www.fossmint.com/
 https://www.hi-linux.com/						#tc网络异常模拟，ddos，frp
